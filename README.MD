@@ -1,5 +1,5 @@
 # PHP Secure Report Viewer
-EN | [RU](README_ru.md)
+EN | [RU](README_ru.MD)
 
 ## 📋 Purpose
 
